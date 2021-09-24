@@ -11,6 +11,13 @@ This is our Full Stack project 3. It is a movie junkies dream! With a simple sea
   * [Credit](#Credit)
   * [Links](#Links)
   
+  
+  ## Deployed Site  
+  [Reel Junkies](https://gentle-castle-13144.herokuapp.com/)  
+  
+  ![reel-junkie](https://user-images.githubusercontent.com/72744783/134720122-bdffb481-749c-4bed-9f50-4532fdd35684.jpg)
+
+  
   ## Languages
   Using React, React Bootstrap, Node.js, React Router, Popper.js, movieDB-promise, Axios, MongoDB, React-Toastify, Mongoose, React burger-menu, .env, and more!
 
