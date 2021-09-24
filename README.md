@@ -1,4 +1,4 @@
-# Reel Junkies
+# Reel Junkie
 
 ![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg) <br>
 
