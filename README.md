@@ -1,4 +1,4 @@
-# Reel Junkie (Project 3)
+# Reel Junkies
 
 ![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg) <br>
 
@@ -6,13 +6,14 @@ This is our Full Stack project 3. It is a movie junkies dream! With a simple sea
 
 
   ## Table of Contents
-  * [Languages](#Languages)
-  * [Contribution](#Contribution)
-  * [Credit](#Credit)
-  * [Links](#Links)
+   [App](#app)  
+   [Languages](#languages)  
+   [Contribution](#contribution)  
+   [Credit](#credit)  
+   [Links](#links)
   
   
-  ## Deployed Site  
+  ## App  
   [Reel Junkies](https://gentle-castle-13144.herokuapp.com/)  
   
   ![reel-junkie](https://user-images.githubusercontent.com/72744783/134720122-bdffb481-749c-4bed-9f50-4532fdd35684.jpg)
